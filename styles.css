@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+   
+
+}
+
+h1{
+    margin: 0px;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+
+
+.top-container {
+    background-color: #FFFFDE;
+    padding-top: 100px;
+    position: relative;
+}
+.middle-container {
+    background-color: #FFFFDE;
+    position: relative;
+    text-align: center;
+
+}
+.bottom-container {
+
+}
+.left-swirl{
+    position: absolute;
+    left: 300px;
+    bottom: 100px;
+}
+.right-swirl{
+    position: absolute; 
+    top: 50px;
+    right: 300px; 
+
+}
+.green-banner{
+    margin-top: 100px;
+}
+.profile img{
+    display: relative;
+    width: auto;
+}
+.banner-text {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
